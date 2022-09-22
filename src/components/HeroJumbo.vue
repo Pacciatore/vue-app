@@ -20,7 +20,7 @@ export default {
 
 <style scoped lang="scss">
 .jumbo-container {
-    min-height: 80vh;
+    height: 50vh;
     background-image: url(../assets/jumbo.png);
     background-position: center;
     background-size: cover;
